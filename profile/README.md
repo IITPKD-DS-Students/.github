@@ -8,7 +8,7 @@ This organization is a community-driven initiative by and for the students of Da
 
 | Repository | Status | Description |
 | :--- | :--- | :--- |
-| [📂 Question-papers](https://github.com/DS-Students/Question-papers) | ✅ Active | Course-wise archive of Tests, Quizzes, and End-Sem papers. |
+| [📂 Question-papers](https://github.com/IITPKD-DS-Students/Question-papers) | ✅ Active | Course-wise archive of Tests, Quizzes, and End-Sem papers. |
 | **📁 Lab-Sheets** | 🛠️ Planned | Standardized lab manuals, problem sets, and setup guides. |
 | **📁 Assignments** | 🛠️ Planned | Sample assignments and project problem statements. |
 | **📁 Course-Notes** | 🛠️ Planned | Community-contributed lecture notes and study guides. |
@@ -34,19 +34,20 @@ We are always looking for more papers, clear scans, and well-documented lab solu
 
 ---
 
+<!---
 ## 🏆 Wall of Fame
 Our community thrives because of students like you. Every contribution—no matter how small—helps the next batch.
 
-<a href="https://github.com/DS-Students/.github/graphs/contributors">
+<a href="https://github.com/IITPKD-DS-Students/.github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=IITPKD-DS-Students/Question-papers,IITPKD-DS-Students/Lab" />
 </a>
 
----
+--->
 
 ## ⚖️ Guidelines & Ethics
 - **Academic Integrity:** This org is for reference and preparation. Do not use it for plagiarism or during active examinations.
 - **Copyright:** Please do not upload paid content or copyrighted textbooks.
-- **Support:** If you find an error or want to start a new repo for a specific domain, open an [Issue](https://github.com/DS-Students/Question-papers/issues).
+- **Support:** If you find an error or want to start a new repo for a specific domain, Start a [discussion here](https://github.com/orgs/IITPKD-DS-Students/discussions).
 
 ---
 
